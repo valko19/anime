@@ -32,7 +32,7 @@ header::before {
     content: '';
     height: 80vh;
     width: 100%;
-    box-shadow: inset 0px 0px 20px 3px black;
+   
     position: absolute;
     border-radius: 30%;
 }
